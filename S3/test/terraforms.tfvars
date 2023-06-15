@@ -1,2 +1,2 @@
-bucketName = "test2"
+bucketName = "test32"
 region = "us-west-1"
