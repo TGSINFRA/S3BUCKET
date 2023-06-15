@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/TGSINFRA/tekinfra.git'
+                git branch: 'main', url: 'https://github.com/TGSINFRA/S3BUCKET.git'
             }
         }
         
